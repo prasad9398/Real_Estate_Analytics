@@ -6,7 +6,7 @@ class Config:
 
     DB_HOST = os.environ.get('localhost') 
     DB_USER = os.environ.get('root') 
-    DB_PASSWORD = os.environ.get('Prasad@123') 
+    DB_PASSWORD = os.environ.get('Your Password') 
     DB_NAME = os.environ.get('real_estate') 
 
     @staticmethod

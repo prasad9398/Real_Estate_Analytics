@@ -22,7 +22,7 @@ create table Properties (
     city varchar(50),
     state varchar(50),
     zip_code varchar(10),
-    price DECIMAL(10,2),
+    price decimal(10,2),
     bedrooms INT,
     bathrooms INT,
     sqft INT,
